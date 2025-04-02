@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nabnab9/DevOps-TD3-cicd/issues"
   },
-  "homepage": "https://github.com/Nabnab9/DevOps-TD3-cicd#readme"
+  "homepage": "https://github.com/Nabnab9/DevOps-TD3-cicd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
