@@ -1,0 +1,20 @@
+{
+  "name": "devops-td3-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nabnab9/DevOps-TD3-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nabnab9/DevOps-TD3-cicd/issues"
+  },
+  "homepage": "https://github.com/Nabnab9/DevOps-TD3-cicd#readme"
+}
